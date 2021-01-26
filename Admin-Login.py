@@ -41,7 +41,7 @@ angka = 0
 while(angka<1):
     run()
     mengetik(D+'\n  SCAN WEBSITE ADMIN LOGIN')
-    mengetik(C+"  By: Mr.B4J1N64N")
+    mengetik(C+"  By: acepj60")
     mengetik(G+"  Team: DARKNESS CYBER TEAM")
     mengetik(I+"  Thanks To: AllMember Indonesia Security Lite")
     mengetik(I+"  Website Tanpa http:// !!")
